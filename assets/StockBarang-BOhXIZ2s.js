@@ -1,0 +1,1 @@
+import{_ as a,c as o,a as t,o as s}from"./index-D4BSp44t.js";const n={name:"StockBarangdView"},c={class:"view-container"};function r(i,e,l,d,_,p){return s(),o("div",c,e[0]||(e[0]=[t("h1",{class:"view-title"},"Stock Barang",-1),t("div",{class:"view-content"},null,-1)]))}const B=a(n,[["render",r]]);export{B as default};

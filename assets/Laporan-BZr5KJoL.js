@@ -1,0 +1,1 @@
+import{_ as o,c as s,a,o as t}from"./index-D4BSp44t.js";const n={name:"LaporanView"},r={class:"view-container"};function c(i,e,p,l,_,d){return t(),s("div",r,e[0]||(e[0]=[a("h1",{class:"view-title"},"Laporan",-1),a("div",{class:"view-content"},null,-1)]))}const m=o(n,[["render",c]]);export{m as default};

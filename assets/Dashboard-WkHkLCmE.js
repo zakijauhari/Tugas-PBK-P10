@@ -1,0 +1,1 @@
+import{_ as a,c as o,a as s,o as t}from"./index-D4BSp44t.js";const n={name:"DashboardView"},r={class:"view-container"};function c(i,e,d,l,_,p){return t(),o("div",r,e[0]||(e[0]=[s("h1",{class:"view-title"},"Dashboard",-1),s("div",{class:"view-content"},null,-1)]))}const m=a(n,[["render",c]]);export{m as default};

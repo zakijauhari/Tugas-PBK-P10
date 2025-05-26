@@ -1,0 +1,1 @@
+import{_ as o,c as s,a as t,o as a}from"./index-D4BSp44t.js";const n={name:"KategoriView"},r={class:"view-container"};function c(i,e,l,_,d,p){return a(),s("div",r,e[0]||(e[0]=[t("h1",{class:"view-title"},"Kategori",-1),t("div",{class:"view-content"},null,-1)]))}const m=o(n,[["render",c]]);export{m as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as t,a,o as n}from"./index-D4BSp44t.js";const r={name:"BarangKeluarView"},o={class:"view-container"};function c(i,e,l,_,d,p){return n(),t("div",o,e[0]||(e[0]=[a("h1",{class:"view-title"},"Barang Keluar",-1),a("div",{class:"view-content"},null,-1)]))}const f=s(r,[["render",c]]);export{f as default};

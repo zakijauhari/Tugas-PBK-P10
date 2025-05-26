@@ -1,0 +1,1 @@
+import{_ as s,c as t,a as o,o as n}from"./index-D4BSp44t.js";const a={name:"ProfilView"},r={class:"view-container"};function c(i,e,l,f,_,d){return n(),t("div",r,e[0]||(e[0]=[o("h1",{class:"view-title"},"Profil",-1),o("div",{class:"view-content"},null,-1)]))}const m=s(a,[["render",c]]);export{m as default};
